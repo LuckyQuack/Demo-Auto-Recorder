@@ -75,3 +75,6 @@ You can tweak settings in `src/recorder/auto_recorder.py`:
 *   `src/parser/`: C# Demo parsing logic.
 *   `src/recorder/`: Python automation scripts.
 *   `segments.json`: generated recording instructions.
+
+## Acknowledgments
+*   [DemoFile](https://github.com/saul/demofile-net) by [saul](https://github.com/saul) - High-performance CS2 demo parser library.
