@@ -1,0 +1,227 @@
+{
+  "player": "gr1ks",
+  "steamid": "76561198370176682",
+  "demo": "gr1ks.dem",
+  "tick_rate": 64,
+  "segments": [
+    {
+      "start_tick": 898,
+      "end_tick": 2838,
+      "duration_sec": 30.3125,
+      "end_reason": "round_end",
+      "round_number": 0
+    },
+    {
+      "start_tick": 4515,
+      "end_tick": 7840,
+      "duration_sec": 51.953125,
+      "end_reason": "death",
+      "round_number": 3
+    },
+    {
+      "start_tick": 10990,
+      "end_tick": 14852,
+      "duration_sec": 60.34375,
+      "end_reason": "death",
+      "round_number": 4
+    },
+    {
+      "start_tick": 17430,
+      "end_tick": 22552,
+      "duration_sec": 80.03125,
+      "end_reason": "death",
+      "round_number": 5
+    },
+    {
+      "start_tick": 26983,
+      "end_tick": 28934,
+      "duration_sec": 30.484375,
+      "end_reason": "death",
+      "round_number": 6
+    },
+    {
+      "start_tick": 32112,
+      "end_tick": 36768,
+      "duration_sec": 72.75,
+      "end_reason": "death",
+      "round_number": 7
+    },
+    {
+      "start_tick": 39354,
+      "end_tick": 44658,
+      "duration_sec": 82.875,
+      "end_reason": "round_end",
+      "round_number": 8
+    },
+    {
+      "start_tick": 46005,
+      "end_tick": 51382,
+      "duration_sec": 84.015625,
+      "end_reason": "round_end",
+      "round_number": 9
+    },
+    {
+      "start_tick": 52729,
+      "end_tick": 54461,
+      "duration_sec": 27.0625,
+      "end_reason": "round_end",
+      "round_number": 10
+    },
+    {
+      "start_tick": 55808,
+      "end_tick": 59752,
+      "duration_sec": 61.625,
+      "end_reason": "round_end",
+      "round_number": 11
+    },
+    {
+      "start_tick": 61099,
+      "end_tick": 64864,
+      "duration_sec": 58.828125,
+      "end_reason": "round_end",
+      "round_number": 12
+    },
+    {
+      "start_tick": 66211,
+      "end_tick": 69025,
+      "duration_sec": 43.96875,
+      "end_reason": "round_end",
+      "round_number": 13
+    },
+    {
+      "start_tick": 70372,
+      "end_tick": 74429,
+      "duration_sec": 63.390625,
+      "end_reason": "death",
+      "round_number": 14
+    },
+    {
+      "start_tick": 77280,
+      "end_tick": 80637,
+      "duration_sec": 52.453125,
+      "end_reason": "round_end",
+      "round_number": 15
+    },
+    {
+      "start_tick": 81984,
+      "end_tick": 85086,
+      "duration_sec": 48.46875,
+      "end_reason": "round_end",
+      "round_number": 16
+    },
+    {
+      "start_tick": 86433,
+      "end_tick": 87969,
+      "duration_sec": 24,
+      "end_reason": "round_end",
+      "round_number": 17
+    },
+    {
+      "start_tick": 89316,
+      "end_tick": 91212,
+      "duration_sec": 29.625,
+      "end_reason": "death",
+      "round_number": 18
+    },
+    {
+      "start_tick": 93107,
+      "end_tick": 95553,
+      "duration_sec": 38.21875,
+      "end_reason": "death",
+      "round_number": 19
+    },
+    {
+      "start_tick": 97556,
+      "end_tick": 99559,
+      "duration_sec": 31.296875,
+      "end_reason": "death",
+      "round_number": 20
+    },
+    {
+      "start_tick": 107806,
+      "end_tick": 108875,
+      "duration_sec": 16.703125,
+      "end_reason": "death",
+      "round_number": 21
+    },
+    {
+      "start_tick": 111305,
+      "end_tick": 113600,
+      "duration_sec": 35.859375,
+      "end_reason": "death",
+      "round_number": 22
+    },
+    {
+      "start_tick": 115589,
+      "end_tick": 118191,
+      "duration_sec": 40.65625,
+      "end_reason": "death",
+      "round_number": 23
+    },
+    {
+      "start_tick": 120739,
+      "end_tick": 124723,
+      "duration_sec": 62.25,
+      "end_reason": "death",
+      "round_number": 24
+    },
+    {
+      "start_tick": 129374,
+      "end_tick": 135664,
+      "duration_sec": 98.28125,
+      "end_reason": "death",
+      "round_number": 25
+    },
+    {
+      "start_tick": 137774,
+      "end_tick": 138746,
+      "duration_sec": 15.1875,
+      "end_reason": "death",
+      "round_number": 26
+    },
+    {
+      "start_tick": 144852,
+      "end_tick": 151270,
+      "duration_sec": 100.28125,
+      "end_reason": "round_end",
+      "round_number": 27
+    },
+    {
+      "start_tick": 152617,
+      "end_tick": 154980,
+      "duration_sec": 36.921875,
+      "end_reason": "death",
+      "round_number": 28
+    },
+    {
+      "start_tick": 156327,
+      "end_tick": 158300,
+      "duration_sec": 30.828125,
+      "end_reason": "death",
+      "round_number": 29
+    },
+    {
+      "start_tick": 165020,
+      "end_tick": 168109,
+      "duration_sec": 48.265625,
+      "end_reason": "death",
+      "round_number": 30
+    },
+    {
+      "start_tick": 171816,
+      "end_tick": 173902,
+      "duration_sec": 32.59375,
+      "end_reason": "death",
+      "round_number": 31
+    },
+    {
+      "start_tick": 179222,
+      "end_tick": 181821,
+      "duration_sec": 40.609375,
+      "end_reason": "round_end",
+      "round_number": 32
+    }
+  ],
+  "total_segments": 31,
+  "total_duration_sec": 1530.140625
+}

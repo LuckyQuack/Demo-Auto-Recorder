@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+# C# / .NET
+bin/
+obj/
+.vs/
+*.user
+*.pdb
+
+# CS2 Demos & Media
+*.dem
+*.dem.zst
+*.mp4
+*.mkv
+*.avi
+
+# Generated Project Files
+auto_record.cfg
+debug.log
+
+# System
+.DS_Store
+Thumbs.db
