@@ -4,6 +4,7 @@ Automated pipeline to extract clips from Counter-Strike 2 demo files.
 
 ## Overview
 This tool automates the process of turning a `.dem.zst` file into individual video clips of a specific player's highlights (or all rounds/deaths).
+Example video: https://www.youtube.com/watch?v=g_mOC57Z5gQ
 
 **Workflow**:
 1.  **Decompress**: Converts `.dem.zst` to `.dem`.
